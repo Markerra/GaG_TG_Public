@@ -1,0 +1,345 @@
+[
+    {
+        "name": "Carrot",
+        "avg_price": 22,
+        "min_value": 18,
+        "min_mass": 0.24
+    },
+    {
+        "name": "Strawberry",
+        "avg_price": 20,
+        "min_value": 14,
+        "min_mass": 0.29
+    },
+    {
+        "name": "Blueberry",
+        "avg_price": 20,
+        "min_value": 18,
+        "min_mass": 0.17
+    },
+    {
+        "name": "Raspberry",
+        "avg_price": 100,
+        "min_value": 90,
+        "min_mass": 0.71
+    },
+    {
+        "name": "Tomato",
+        "avg_price": 30,
+        "min_value": 27,
+        "min_mass": 0.44
+    },
+    {
+        "name": "Apple",
+        "avg_price": 275,
+        "min_value": 248,
+        "min_mass": 2.85
+    },
+    {
+        "name": "Cauliflower",
+        "avg_price": 40,
+        "min_value": 36,
+        "min_mass": 4.74
+    },
+    {
+        "name": "Watermelon",
+        "avg_price": 3000,
+        "min_value": 2708,
+        "min_mass": 7.3
+    },
+    {
+        "name": "Rafflesia",
+        "avg_price": 5465,
+        "min_value": 2312,
+        "min_mass": 1
+    },
+    {
+        "name": "Green Apple",
+        "avg_price": 301,
+        "min_value": 271,
+        "min_mass": 2.85
+    },
+    {
+        "name": "Avocado",
+        "avg_price": 351,
+        "min_value": 91,
+        "min_mass": 3.32
+    },
+    {
+        "name": "Banana",
+        "avg_price": 2010,
+        "min_value": 1805,
+        "min_mass": 1.42
+    },
+    {
+        "name": "Pineapple",
+        "avg_price": 2000,
+        "min_value": 1805,
+        "min_mass": 2.85
+    },
+    {
+        "name": "Kiwi",
+        "avg_price": 2750,
+        "min_value": 2482,
+        "min_mass": 4.75
+    },
+    {
+        "name": "Bell Pepper",
+        "avg_price": 55000,
+        "min_value": 4964,
+        "min_mass": 7.61
+    },
+    {
+        "name": "Loquat",
+        "avg_price": 8000,
+        "min_value": 7220,
+        "min_mass": 6.17
+    },
+    {
+        "name": "Feijoa",
+        "avg_price": 13000,
+        "min_value": 11733,
+        "min_mass": 9.5
+    },
+    {
+        "name": "Pitcher Plant",
+        "avg_price": 32000,
+        "min_value": 28800,
+        "min_mass": 11.4
+    },
+    {
+        "name": "Sugar Apple",
+        "avg_price": 50000,
+        "min_value": 43320,
+        "min_mass": 8.55
+    },
+    {
+        "name": "Lavender",
+        "avg_price": 25000,
+        "min_value": 22563,
+        "min_mass": 0.25
+    },
+    {
+        "name": "Crocus",
+        "avg_price": 30000,
+        "min_value": 27075,
+        "min_mass": 0.285
+    },
+    {
+        "name": "Lilac",
+        "avg_price": 35.091,
+        "min_value": 31588,
+        "min_mass": 2.846
+    },
+    {
+        "name": "Nectarshade",
+        "avg_price": 50000,
+        "min_value": 45125,
+        "min_mass": 0.75
+    },
+    {
+        "name": "Nectarine",
+        "avg_price": 39960,
+        "min_value": 35000,
+        "min_mass": 2.807
+    },
+    {
+        "name": "Cacao",
+        "avg_price": 12000,
+        "min_value": 10830,
+        "min_mass": 7.6
+    },
+    {
+        "name": "Coconut",
+        "avg_price": 400,
+        "min_value": 361,
+        "min_mass": 13.31
+    },
+    {
+        "name": "Cocovine",
+        "avg_price": 66640,
+        "min_value": 60166,
+        "min_mass": 13.3
+    },
+    {
+        "name": "Hive Fruit",
+        "avg_price": 62000,
+        "min_value": 55955,
+        "min_mass": 7.59
+    },
+    {
+        "name": "Nightshade",
+        "avg_price": 3500,
+        "min_value": 3159,
+        "min_mass": 0.48
+    },
+    {
+        "name": "Glowshroom",
+        "avg_price": 300,
+        "min_value": 271,
+        "min_mass": 0.7
+    },
+    {
+        "name": "Mint",
+        "avg_price": 5250,
+        "min_value": 4738,
+        "min_mass": 0.95
+    },
+    {
+        "name": "Sunflower",
+        "avg_price": 160000,
+        "min_value": 144000,
+        "min_mass": 15.65
+    },
+    {
+        "name": "Starfruit",
+        "mass": 3,
+        "avg_price": 15000,
+        "min_value": 13538,
+        "min_mass": 2.85
+    },
+    {
+        "name": "Moonglow",
+        "avg_price": 20015,
+        "min_value": 18050,
+        "min_mass": 6.65
+    },
+    {
+        "name": "Moon Blossom",
+        "avg_price": 66666,
+        "min_value": 60166,
+        "min_mass": 2.85
+    },
+    {
+        "name": "Candy Blossom",
+        "avg_price": 100000,
+        "min_value": 90250,
+        "min_mass": 2.85
+    },
+    {
+        "name": "Parasol Flower",
+        "avg_price": 200000,
+        "min_value": 180500,
+        "min_mass": 5.7
+    },
+    {
+        "name": "Wild Carrot",
+        "avg_price": 24750,
+        "min_value": 22563,
+        "min_mass": 0.286
+    },
+    {
+        "name": "Grape",
+        "avg_price": 7848,
+        "min_value": 7085,
+        "min_mass": 2.85
+    },
+    {
+        "name": "Chocolate Carrot",
+        "avg_price": 11376,
+        "min_value": 9960,
+        "min_mass": 0.262
+    },
+    {
+        "name": "Lily Of The Valley",
+        "avg_price": 49140,
+        "min_value": 44331,
+        "min_mass": 5.69
+    },
+    {
+        "name": "Aloe Vera",
+        "avg_price": 63079,
+        "min_value": 56858,
+        "min_mass": 5.22
+    },
+    {
+        "name": "Purple Dahlia",
+        "avg_price": 75168,
+        "min_value": 67688,
+        "min_mass": 11.4
+    },
+    {
+        "name": "Rosy Delight",
+        "avg_price": 69000,
+        "min_value": 62273,
+        "min_mass": 9.5
+    },
+    {
+        "name": "Prickly Pear",
+        "avg_price": 7003,
+        "min_value": 6319,
+        "min_mass": 6.65
+    },
+    {
+        "name": "Moon Melon",
+        "avg_price": 17997,
+        "min_value": 16245,
+        "min_mass": 7.6
+    },
+    {
+        "name": "Dragon Fruit",
+        "avg_price": 4751,
+        "min_value": 4287,
+        "min_mass": 11.38
+    },
+    {
+        "name": "Pear",
+        "avg_price": 20000,
+        "min_value": 18050,
+        "min_mass": 2.85
+    },
+    {
+        "name": "Moon Mango",
+        "avg_price": 50000,
+        "min_value": 45125,
+        "min_mass": 14.25
+    },
+    {
+        "name": "Nectar Thorn",
+        "avg_price": 44444,
+        "min_value": 40111,
+        "min_mass": 6.65
+    },
+    {
+        "name": "Ember Lily",
+        "avg_price": 55554,
+        "min_value": 50138,
+        "min_mass": 11.4
+    },
+    {
+        "name": "Honeysuckle",
+        "avg_price": 99980,
+        "min_value": 90250,
+        "min_mass": 11.4
+    },
+    {
+        "name": "Burning Bud",
+        "avg_price": 109350,
+        "min_value": 63175,
+        "min_mass": 11.4
+    },
+    {
+        "name": "Delphinium",
+        "avg_price": 24000,
+        "min_value": 21660,
+        "min_mass": 0.285
+    },
+    {
+        "name": "Lily Of The Valley",
+        "avg_price": 49120,
+        "min_value": 44331,
+        "min_mass": 5.69
+    },
+    {
+        "name": "Travelers Fruit",
+        "avg_price": 70000,
+        "min_value": 53248,
+        "min_mass": 14.25
+    },
+    {
+        "name": "Bone Blossom",
+        "avg_price": 174881,
+        "min_value": 157938,
+        "min_mass": 6.65
+    }
+]

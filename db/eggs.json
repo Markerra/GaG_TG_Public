@@ -1,0 +1,12 @@
+[
+  {"name": "Common Egg", "rarity": "Common", "price": 50000},
+  {"name": "Uncommon Egg", "rarity": "Uncommon", "price": 150000},
+  {"name": "Rare Egg", "rarity": "Rare", "price": 600000},
+  {"name": "Legendary Egg", "rarity": "Legendary", "price": 3000000},
+  {"name": "Mythical Egg", "rarity": "Mythical", "price": 8000000},
+  {"name": "Bug Egg", "rarity": "Divine", "price": 50000000},
+  {"name": "Night Egg", "rarity": "Divine", "price": 50000000},
+  {"name": "Common Summer Egg", "rarity": "Common", "price": 1000000},
+  {"name": "Rare Summer Egg", "rarity": "Rare", "price": 25000000},
+  {"name": "Paradise Egg", "rarity": "Divine", "price": 50000000}
+]

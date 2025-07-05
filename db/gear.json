@@ -1,0 +1,17 @@
+[
+  {"name": "Watering Can", "rarity": "Common", "price": 50000},
+  {"name": "Trowel", "rarity": "Uncommon", "price": 100000},
+  {"name": "Recall Wrench", "rarity": "Uncommon", "price": 150000},
+  {"name": "Basic Sprinkler", "rarity": "Rare", "price": 25000},
+  {"name": "Advanced Sprinkler", "rarity": "Rare", "price": 50000},
+  {"name": "Star Caller", "rarity": "Legendary", "price": 12000000},
+  {"name": "Godly Sprinkler", "rarity": "Mythical", "price": 120000},
+  {"name": "Chocolate Sprinkler", "rarity": "Mythical", "price": 500000},
+  {"name": "Magnifying Glass", "rarity": "Mythical", "price": 10000000},
+  {"name": "Master Sprinkler", "rarity": "Divine", "price": 10000000},
+  {"name": "Cleaning Spray", "rarity": "Divine", "price": 15000000},
+  {"name": "Favorite Tool", "rarity": "Divine", "price": 20000000},
+  {"name": "Harvest Tool", "rarity": "Divine", "price": 30000000},
+  {"name": "Friendship Pot", "rarity": "Divine", "price": 15000000},
+  {"name": "Honey Sprinkler", "rarity": "Divine"}
+]

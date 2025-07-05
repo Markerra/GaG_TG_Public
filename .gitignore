@@ -1,0 +1,7 @@
+.vscode/
+.venv/
+venv/
+__pycache__/
+db/venv/
+db/__pycache__/
+parser/tmp/
